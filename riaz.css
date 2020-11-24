@@ -1,0 +1,106 @@
+.header{
+    text-align: center;
+  
+}
+.header b{
+    text-align: center;
+    
+}
+.menu{
+   
+  
+}
+.menu a{
+    text-decoration: none;
+    padding: 5px;
+    background-color: orange;
+    font-size: 20px;
+}
+.menu a:hover{
+    color: white;
+    background-color: black;
+}
+.sider{
+    float: right;
+    margin-right: 30px;
+    display: inline-block;
+   
+}
+.sider a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+
+}
+.sider a:hover{
+    color: red;
+}
+.middle{
+    margin-left: 12px;
+    margin-top: 35px;
+}
+.col-25{
+    margin-top: 100px;
+    height: 300px;
+    width: 250px;
+    display: inline-block;
+    padding: 20px;
+    border:2px solid red;
+    overflow: hidden;
+    overflow: scroll;
+    background: lightblue;
+   
+}
+.col-30{
+    margin-top: 100px;
+    height: 300px;
+    width: 250px;
+    display: inline-block;
+    padding: 20px;
+    border:2px solid red;
+    overflow: hidden;
+    overflow: scroll;
+    background: lightblue;
+   
+}
+.col-30 img{
+    height: 200px;
+    width: 200px;
+}
+.col-35{
+    margin-top: 100px;
+    height: 300px;
+    width: 250px;
+    display: inline-block;
+    padding: 20px;
+    border:2px solid red;
+    overflow: hidden;
+    overflow: scroll;
+    background: lightblue;
+   
+   
+}
+.col-35 img{
+    height: 200px;
+    width: 200px;
+}
+.col-40{
+    margin-top: 100px;
+    height: 300px;
+    width: 250px;
+    display: inline-block;
+    padding: 20px;
+    border:2px solid red;
+    overflow: hidden;
+    overflow: scroll;
+    background: lightblue;
+   
+}
+.fotter{
+    text-align: center;
+    font-family: algerian;
+    color: orange;
+}
+body{
+  
+}
